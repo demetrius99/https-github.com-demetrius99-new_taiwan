@@ -1,2 +1,2 @@
 # Projects
-First one is my poersonal portfolio as a software engineer.
+First one is my personal portfolio as a software engineer.
